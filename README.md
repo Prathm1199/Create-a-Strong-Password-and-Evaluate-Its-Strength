@@ -9,19 +9,19 @@ Understand what makes a password strong and test it against password strength to
 ## Passwords Tested & Results
 
 * Password=user, Score:6%, Rating:Very Weak
- Too short, no uppercase, no numbers, no symbols
+- Too short, no uppercase, no numbers, no symbols
 
 * Password=user123, Score:37%, Rating:Weak
- Contains numbers but no uppercase or symbols
+- Contains numbers but no uppercase or symbols
 
 * Password=User123, Score:53%, Rating:Good
- Has uppercase and numbers but no symbols, short length
+- Has uppercase and numbers but no symbols, short length
 
 * Password=User@123, Score:79%, Rating:Strong
- Mix of uppercase, lowercase, numbers, symbols; could be longer
+- Mix of uppercase, lowercase, numbers, symbols; could be longer
 
 * Password=Us3r!123$abc, Score:100%, Rating:Very Strong
- Excellent length, variety of characters, complex
+- Excellent length, variety of characters, complex
 
 ## Best Practices for Strong Passwords
 
@@ -33,10 +33,10 @@ Understand what makes a password strong and test it against password strength to
 
 ## Common Password Attacks
 
-  Brute Force: Tries all possible combinations until success.
-  Dictionary Attack: Uses common words or leaked password lists.
-  Phishing Attack: Tricks users into entering credentials on fake login pages.
-  Keyloger: Malware records keystrokes to capture passwords.
+ - Brute Force: Tries all possible combinations until success.
+ - Dictionary Attack: Uses common words or leaked password lists.
+ - Phishing Attack: Tricks users into entering credentials on fake login pages.
+ - Keyloger: Malware records keystrokes to capture passwords.
 
 ## Summary
 The test confirmed that length + complexity greatly improves password strength.  
