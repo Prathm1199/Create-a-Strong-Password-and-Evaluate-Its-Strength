@@ -8,19 +8,19 @@ Understand what makes a password strong and test it against password strength to
 
 ## Passwords Tested & Results
 
-* Password=user, Score:6%, Rating:Very Weak
-- Too short, no uppercase, no numbers, no symbols
+* Password=user, Score:6%, Rating:Very Weak  
+Too short, no uppercase, no numbers, no symbols
 
-* Password=user123, Score:37%, Rating:Weak
+* Password=user123, Score:37%, Rating:Weak  
 - Contains numbers but no uppercase or symbols
 
-* Password=User123, Score:53%, Rating:Good
+* Password=User123, Score:53%, Rating:Good  
 - Has uppercase and numbers but no symbols, short length
 
-* Password=User@123, Score:79%, Rating:Strong
+* Password=User@123, Score:79%, Rating:Strong  
 - Mix of uppercase, lowercase, numbers, symbols; could be longer
 
-* Password=Us3r!123$abc, Score:100%, Rating:Very Strong
+* Password=Us3r!123$abc, Score:100%, Rating:Very Strong  
 - Excellent length, variety of characters, complex
 
 ## Best Practices for Strong Passwords
